@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.3.3
+pyarrow==25.0.1
+scipy==1.15.3
+scikit-learn==1.7.2
+torch==2.5.1
+transformers==4.48.3
+sentencepiece==0.2.2
